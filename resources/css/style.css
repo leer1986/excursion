@@ -1,0 +1,39 @@
+/* Global Body Settings */
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+/* Main Heading (h1) */
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+/* Secondary Headings (h2) */
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+/* Subheading/Description (h3) */
+h3 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal;
+}
+
+/* Download Hyperlinks */
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/* Footer & Copyright Styling */
+footer {
+  text-align: right;
+  color: gray;
+  font-size: 12px;
+}
